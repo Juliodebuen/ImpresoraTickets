@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/workspace/impresion/bixolon_printer_v118.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/impresion/bixolon-common-1.9.4.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/impresion/bixolon-control-1.13.0.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/impresion/bixolon-portmng-1.9.3.3.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/impresion/bixolon-portwin-1.7.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/impresion/bixolon-service-2.3.10.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/impresion/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/impresion/icu4j-56_1.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/impresion/javapos-1.14.2.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/impresion/jpos114-controls.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/impresion/xerces.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
